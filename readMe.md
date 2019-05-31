@@ -1,1 +1,1 @@
-# Alternating bit protocol, Sliding Window Protocol and Selective Repeeat protocol implementation
+# Alternating bit protocol,Go Back N and Selective Repeat protocol implementation
